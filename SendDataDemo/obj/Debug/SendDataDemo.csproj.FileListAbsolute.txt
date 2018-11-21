@@ -1,0 +1,11 @@
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\bin\Debug\SendDataDemo.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\bin\Debug\SendDataDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\bin\Debug\SendDataDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.csprojResolveAssemblyReference.cache
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.Form1.resources
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.SecondForm.resources
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\SendDataDemo\SendDataDemo\obj\Debug\SendDataDemo.pdb
